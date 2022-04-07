@@ -10,6 +10,7 @@ import javax.swing.filechooser.FileFilter;
  *
  * @author Nguyen Hong Anh
  */
+
 public class FileTypeFilter extends FileFilter {
 
     private final String extension;
